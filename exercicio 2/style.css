@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    color:rgb(77, 139, 61);
+}
+
+button{
+    background-color: rgb(77, 139, 61);
+    border-color:rgb(77, 139, 61);
+    width: 5vw;
+    height: 3vh;
+}
